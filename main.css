@@ -1,0 +1,29 @@
+#tempInput{
+    height: 50px;
+    font-size: 130%;
+    margin: 15px;
+    margin-left: 5%;
+}
+
+#c{
+    -ms-transform: scale(1.5); 
+    -moz-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    margin: 10px;
+    margin-left: 5%;
+}
+
+#f{
+    -ms-transform: scale(1.5); 
+    -moz-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    margin: 10px;
+}
+
+button{
+    margin: 12px;
+    font-size: 150%;
+    margin-left: 5%;
+}
