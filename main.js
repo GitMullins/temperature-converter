@@ -60,7 +60,7 @@ const clearTempInput = () => {
 convertBtn.addEventListener("click", determineConverter);
 clearBtn.addEventListener("click", clearTempInput);
 
-tempInput.addEventListener("keyup", function(event){
+document.addEventListener("keyup", function(event){
     if (event.keyCode === 13){
         document.getElementById('convertBtn').click();
     }
